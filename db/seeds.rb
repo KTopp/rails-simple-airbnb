@@ -24,7 +24,7 @@ Flat.create!(
 Flat.create!(
   name: 'Tight & Cramped Cupboard London',
   address: '9 Clifton Heights London W7 3DT',
-  description: 'can almost fully lay down, no kitchen',
+  description: 'can almost fully lay down, live like a wizard',
   price_per_night: 200,
   number_of_guests: 3
 )
